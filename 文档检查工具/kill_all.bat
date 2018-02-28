@@ -1,0 +1,1 @@
+TASKKILL /F /IM WINWORD.exe /T

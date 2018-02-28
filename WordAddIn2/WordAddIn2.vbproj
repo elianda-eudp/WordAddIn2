@@ -32,7 +32,7 @@
     <IsWebBootstrapper>False</IsWebBootstrapper>
     <BootstrapperEnabled>true</BootstrapperEnabled>
     <BootstrapperComponentsUrl>E:\</BootstrapperComponentsUrl>
-    <PublishUrl>C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WordAddIn2\WordAddIn2\无组件发布\</PublishUrl>
+    <PublishUrl>E:\GitHub\WordAddIn2\WordAddIn2\发布\</PublishUrl>
     <InstallUrl />
     <TargetCulture>zh-chs</TargetCulture>
     <ApplicationVersion>1.0.0.22</ApplicationVersion>

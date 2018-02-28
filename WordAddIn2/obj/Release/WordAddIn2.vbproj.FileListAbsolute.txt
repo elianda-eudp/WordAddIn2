@@ -20,3 +20,25 @@ C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WordAddIn2\WordAddI
 C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WordAddIn2\WordAddIn2\obj\Release\WordAddIn2.Resource.resources
 C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WordAddIn2\WordAddIn2\obj\Release\WordAddIn2.Form1.resources
 C:\Users\Administrator\Documents\Visual Studio 2017\Projects\WordAddIn2\WordAddIn2\obj\Release\WordAddIn2.vbprojResolveAssemblyReference.cache
+E:\GitHub\WordAddIn2\WordAddIn2\bin\Release\WordAddIn2.dll
+E:\GitHub\WordAddIn2\WordAddIn2\bin\Release\WordAddIn2.pdb
+E:\GitHub\WordAddIn2\WordAddIn2\bin\Release\WordAddIn2.xml
+E:\GitHub\WordAddIn2\WordAddIn2\bin\Release\WordAddIn2.dll.manifest
+E:\GitHub\WordAddIn2\WordAddIn2\bin\Release\WordAddIn2.vsto
+E:\GitHub\WordAddIn2\WordAddIn2\bin\Release\Microsoft.Office.Tools.Common.dll
+E:\GitHub\WordAddIn2\WordAddIn2\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\GitHub\WordAddIn2\WordAddIn2\bin\Release\Microsoft.Office.Tools.dll
+E:\GitHub\WordAddIn2\WordAddIn2\bin\Release\Microsoft.Office.Tools.v4.0.Framework.dll
+E:\GitHub\WordAddIn2\WordAddIn2\bin\Release\Microsoft.Office.Tools.Word.dll
+E:\GitHub\WordAddIn2\WordAddIn2\bin\Release\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+E:\GitHub\WordAddIn2\WordAddIn2\obj\Release\WordAddIn2.vbprojResolveAssemblyReference.cache
+E:\GitHub\WordAddIn2\WordAddIn2\obj\Release\WordAddIn2.Form1.resources
+E:\GitHub\WordAddIn2\WordAddIn2\obj\Release\WordAddIn2.FormMain.resources
+E:\GitHub\WordAddIn2\WordAddIn2\obj\Release\WordAddIn2.Resource.resources
+E:\GitHub\WordAddIn2\WordAddIn2\obj\Release\WordAddIn2.Ribbon1.resources
+E:\GitHub\WordAddIn2\WordAddIn2\obj\Release\WordAddIn2.Resources.resources
+E:\GitHub\WordAddIn2\WordAddIn2\obj\Release\WordAddIn2.vbproj.GenerateResource.Cache
+E:\GitHub\WordAddIn2\WordAddIn2\obj\Release\WordAddIn2.vbproj.CoreCompileInputs.cache
+E:\GitHub\WordAddIn2\WordAddIn2\obj\Release\WordAddIn2.dll
+E:\GitHub\WordAddIn2\WordAddIn2\obj\Release\WordAddIn2.xml
+E:\GitHub\WordAddIn2\WordAddIn2\obj\Release\WordAddIn2.pdb
